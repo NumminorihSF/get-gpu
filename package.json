@@ -1,6 +1,6 @@
 {
   "name": "get-gpu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets current GPU's info if browser supports",
   "main": "index.js",
   "scripts": {
